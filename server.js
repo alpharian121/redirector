@@ -3,7 +3,7 @@ const session = require('express-session');
 const path = require('path');
 
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 3000;
 
 // ---- CHANGE THIS TOKEN BEFORE DEPLOYING ---- //
 const ACCESS_TOKEN = process.env.ACCESS_TOKEN || "5thr54hdretrhsWFEWgWEGwe34264453w5hy";
