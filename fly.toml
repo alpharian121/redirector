@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for redrector on 2026-07-30T14:14:30Z
+# fly.toml app configuration file generated for bofa-link on 2026-07-31T01:04:44Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'redrector'
+app = 'bofa-link'
 primary_region = 'ams'
 
 [build]
